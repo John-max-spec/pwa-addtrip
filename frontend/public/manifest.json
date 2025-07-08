@@ -1,0 +1,29 @@
+{
+  "name": "trip-diary",
+  "short_name": "trip-D",
+  "description": "An example for Dynamic Web Technologies of PWAs.",
+  "icons": [
+    {
+      "src": "pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  
+
+
+],
+
+"start_url": "./index.html",
+"homepage":".",
+"display": "standalone",
+"theme_color":"#000000",
+"Orientation":"portrait",
+"scope": "/",
+"background_color": "#ffffff"}
